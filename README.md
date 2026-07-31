@@ -8,4 +8,4 @@ Current Goal:
 - Learn Git & GitHub
 - Build strong programming skills
 - Create meaningful projects
-- Grow consistently every day
+- Grow consistently everyday
